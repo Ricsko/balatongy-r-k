@@ -1,3 +1,7 @@
 body{
     background-image: url(../forras/back.jpg);
 }
+div{
+    width: 1000px;
+    text-align: center;
+}
