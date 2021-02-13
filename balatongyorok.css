@@ -5,3 +5,33 @@ div{
     width: 1000px;
     text-align: center;
 }
+#header{
+    min-width: 650px;
+    max-width: 1000px;
+    background: url(../forras/panorama.jpg);
+    background-position:100%;
+    background-size: cover;
+    
+}
+h1{
+    float:left;
+    padding-left: 40px;
+}
+
+#cimer{
+    width: 150px;
+}
+
+.bal{
+    float:left;
+    width: 450px;
+    background-color: #5b9cea;
+    padding: 20px;
+}
+
+.jobb{
+    float:right;
+    width: 450px;
+    background-color: #5b9cea;
+    padding: 20px;
+}
