@@ -9,7 +9,7 @@ div{
     
     min-width: 650px;
     max-width: 1000px;
-    background: url(./panorama.jpg);
+    background-image: url(./panorama.jpg);
     background-position:100%;
     background-size: cover;
     height: 155px;
