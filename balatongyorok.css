@@ -3,14 +3,16 @@ body{
 }
 div{
     width: 1000px;
-    text-align: center;
+    margin:auto;
 }
 #header{
+    
     min-width: 650px;
     max-width: 1000px;
     background: url(../forras/panorama.jpg);
     background-position:100%;
     background-size: cover;
+    height: 150px;
     
 }
 h1{
@@ -18,20 +20,31 @@ h1{
     padding-left: 40px;
 }
 
+
 #cimer{
     width: 150px;
+    float:right;
 }
+
 
 .bal{
     float:left;
     width: 450px;
     background-color: #5b9cea;
-    padding: 20px;
+    padding: 10px;
 }
 
 .jobb{
     float:right;
     width: 450px;
     background-color: #5b9cea;
-    padding: 20px;
+    padding: 10px;
+}
+table{
+    text-align: center;
+    background-color: #b0d1f1;
+    border-collapse: collapse;
+}
+td{
+    border:1px solid black;
 }
