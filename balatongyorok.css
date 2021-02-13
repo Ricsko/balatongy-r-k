@@ -1,5 +1,5 @@
 body{
-    background-image: url(../forras/back.jpg);
+    background-image: url(./back.jpg);
 }
 div{
     width: 1000px;
@@ -9,7 +9,7 @@ div{
     
     min-width: 650px;
     max-width: 1000px;
-    background: url(../forras/panorama.jpg);
+    background: url(./panorama.jpg);
     background-position:100%;
     background-size: cover;
     height: 155px;
